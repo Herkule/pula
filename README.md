@@ -1,2 +1,2 @@
 # pula
-sugi pula tarfo
+System.out.println("sugi pula tarfo");
